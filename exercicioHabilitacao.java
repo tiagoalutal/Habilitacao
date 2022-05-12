@@ -2,7 +2,7 @@ import java.util.Scanner;
 //importando a biblioteca scanner.
 
  class Habilitacao
- //nomeando o codigo.
+ 
  {
     public static void main(String[] args) 
     {
