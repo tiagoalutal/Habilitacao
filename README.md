@@ -11,4 +11,6 @@ Se todas as respostas forem sim, o individuo pode solicitar a habilitação.
 Se alguma das respostas for não, o individuo naõ pode solicitar a habilitação.
 fim.
 ```
+![FluxogramaHabilitação](https://user-images.githubusercontent.com/103974210/168701542-3bf6a69f-b6cf-4541-8c58-f21cc4c182cb.png)
+
 
